@@ -10,4 +10,4 @@ My GitHub page is http://github.com/sxmasghxst.
 
 * Lab 7
 
-    Lab 7, part 2 was one of my favorite labs because while I already knew how the  game worked, I learned how to translate it into code. This lab helped me understand how different coding is from the regular english language. It also helped me build mmy skills with translating one into the other.
+    Lab 7, part 2 was one of my favorite labs because while I already knew how the  game worked, I learned how to translate it into code. This lab helped me understand how different coding is from the regular english language. It also helped me build mmy skills with translating one into the other
